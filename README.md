@@ -28,7 +28,7 @@ This is Backend for Blanja App.
 ## Additional
 
     This project has been deployed on heroku
-    > [HEROKU LINK](https://blanja-backend.herokuapp.com/)
+> [HEROKU LINK](https://blanja-backend.herokuapp.com/)
 
 
 
